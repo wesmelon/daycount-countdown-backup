@@ -1,0 +1,28 @@
+{
+  "source": "wesmelon/daycount",
+  "commit": "a49128db16bb410cc657adffcd803934daeedc74",
+  "sha256": {
+    ".gitignore": "985478339bd704d2f13c359087bb50eb6195ec48c11868bb5c41108be555339d",
+    "README.md": "016d4e65f0b2f1799835f4b4dda1a78a41e965117ac2e56f7285ceed0e5e4b1b",
+    "bower.json": "f2cb16f31b9d8099fd9bc729a75e9f6a86ef4508d6b25d9d4974a90c4757e285",
+    "main.go": "6a9fb2943f1f8eb57ddc07787747dd36401019f05e8d686c9573592153d2a2e6",
+    "models/models.go": "f79003196327f68d65929f4a6e523b712340870547882afb9bad7011e8c82445",
+    "models/todo.go": "8ea9109cc2fd98681c9a13803403c571cc86edcb147511138135c0eb888d78e7",
+    "models/user.go": "b67b140285559f31a56443134d39f91f9ca7f6e05f270a29ec6644588f4ecef5",
+    "routes/auth.go": "2990555ffc39fdfa33ce2d283c43e27480804b563c97fa0a8c398fbfe0b1d3eb",
+    "routes/categories.go": "edbb8f45668e07f60adc6032b800cc430365abfb629900355141f7388134b047",
+    "routes/containers.go": "3876dde13a52d1e9ed23612f6d8d334f2385a069f9b6fb8d9d382094c18ce03c",
+    "routes/dates.go": "56b3b981f7b0a2fd04d05f17ff9d41a14ceedc7003c210288c64794d03f51fda",
+    "routes/globals.go": "0d09d9dce906c961452a9f183effa31eb4d8dc19a34faeb9d28d2c305b37fd42",
+    "routes/paths.go": "049e87bd1133e2567a779345635ad4db142fca6e9eb054bfdb6a84485d9b71f0",
+    "routes/routes.go": "f158cadfd5a145c048db650feefa1cc4816f7b384362ea29a4ae02fd3f6465d9",
+    "routes/sessions.go": "c304ad60df4363739eea502d47ec4dffcc3c452cdb0cd17418980fc50ca8e3a4",
+    "static/css/main.css": "85e2294d80772e2764f63bfc622e365dd4ea3f1dd913dfffb08dbb03f5cbef5e",
+    "static/css/signin.css": "c8e781e827400edc0661c7fe37e624bb0c325a2f68de9f913e85b1e71fa297d6",
+    "templates/auth/signup.html": "5098c4d2e1b001fc1cb8632df4c2aa92d6d8e9be128c194adc21cf4b79b5c9fb",
+    "templates/container.html": "72a51adb6eac1a73057ac22952f282aa86306634342efa33b15f6d5b599acfd3",
+    "templates/homepage.html": "ff08c57050cc6b3de162fe7aecfeff5e551689e8d30c46418ee538ff78b2fd7b",
+    "templates/index.html": "c9f2a755c1e0bd27cf7f979b3433ca07443980bdc60c030405950d0c0f76a0f8",
+    "templates/internal.html": "80b6cdf41a93fd8adb92df3288d4df1da15663ad796959188a4e69b2ab15b9e8"
+  }
+}
